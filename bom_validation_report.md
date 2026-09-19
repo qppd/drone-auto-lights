@@ -94,37 +94,45 @@
 ## 5. Profitability Analysis for Solo Engineer
 
 ### 5.1. Cost Components
-**Hardware Costs (Current BOM):** ~₱5,330
-**Potential Adjusted Cost:** ~₱5,800-₱6,000
+**Hardware Costs (Validated BOM):** ₱6,700 per unit (Standard Build)
+**R&D Investment (One-time):** ~₱3,370 (tools, testing materials, depreciation)
+**Labor Cost:** ₱0 (solo engineer — all tasks internalized)
 
-**Labor Components:**
-1. **3D Printing**: Design + printing time
-2. **Electronics Assembly**: Soldering, wiring, testing
-3. **Firmware Development**: ESP32 coding, RC integration
-4. **Mechanical Assembly**: Pan-tilt, cooling system
-5. **Testing & Calibration**: Thermal, stabilization, flight testing
+**Labor Tasks (No External Cost):**
+1. **3D Printing**: Design + printing time (6 hours/unit)
+2. **Electronics Assembly**: Soldering, wiring, testing (7 hours/unit)
+3. **Firmware Development**: ESP32 coding, RC control (25-30 hours, one-time)
+4. **Mechanical Assembly**: Pan-tilt, cooling system (3 hours/unit)
+5. **Testing & Calibration**: Thermal, stabilization, flight (3 hours/unit)
 
 ### 5.2. Time Investment Estimates
-| Task | Hours | Notes |
-|------|-------|-------|
-| 3D Design & Printing | 15-25 | Custom brackets, enclosures |
-| Electronics Assembly | 10-15 | Soldering, wiring, safety checks |
-| Firmware Development | 20-30 | ESP32 code, MPU6050, RC control |
-| Mechanical Assembly | 8-12 | Pan-tilt, cooling, mounting |
-| Testing & Calibration | 10-15 | Thermal, stabilization, flight |
-| **Total** | **63-97 hours** | |
+| Task | Hours | External Cost | Internal Cost | Notes |
+|------|-------|---------------|---------------|-------|
+| 3D Design & Printing | 15-25 | ₱0 | ₱0 | Custom brackets, enclosures |
+| Electronics Assembly | 10-15 | ₱0 | ₱0 | Soldering, wiring, safety checks |
+| Firmware Development | 20-30 | ₱0 | ₱0 | ESP32 code, MPU6050, RC control |
+| Mechanical Assembly | 8-12 | ₱0 | ₱0 | Pan-tilt, cooling, mounting |
+| Testing & Calibration | 10-15 | ₱0 | ₱0 | Thermal, stabilization, flight |
+| **Total** | **63-97 hours** | **₱0** | **₱0** | All solo engineer |
 
-### 5.3. Pricing Strategy
+### 5.3. Pricing Strategy (Solo Engineer, ₱0 Labor)
 **Cost-Plus Pricing Model:**
-- **Hardware Cost:** ₱6,000
-- **Labor Cost:** 80 hours × ₱150/hour = ₱12,000
-- **Overhead (20%):** ₱3,600
-- **Total Cost:** ₱21,600
+- **Hardware Cost:** ₱6,700/unit
+- **R&D (Amortized):** ~₱3,370 (one-time)
+- **Labor Cost:** ₱0 (solo engineer)
+- **Total Cost/Unit:** ₱6,700 (₱10,070 first unit)
 
 **Market Positioning:**
-- **Entry Price:** ₱15,000-₱20,000 (competitive)
-- **Premium Price:** ₱25,000-₱30,000 (with features)
-- **Solo Engineer Profit:** ₱5,000-₱10,000 per unit
+- **Early Adopters:** ₱15,000 = **55% margin** (first 5 units)
+- **Main Market:** ₱12,000 = **44% margin** (units 6-20)
+- **Volume:** ₱10,000 = **33% margin** (bulk orders)
+- **Budget:** ₱8,500 = **21% margin** (stripped-down)
+
+**Profit Potential:**
+- **Conservative (2 units/month):** ₱6,600/month = ₱79,200/year
+- **Moderate (5 units/month):** ₱21,500/month = ₱258,000/year
+- **Aggressive (10 units/month):** ₱53,000/month = ₱636,000/year
+- **Break-even:** 1 unit at ₱12,000+ price
 
 ## 6. Action Items for BOM Improvement
 

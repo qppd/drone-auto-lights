@@ -9,14 +9,14 @@ I have successfully validated the complete BOM for your DRONE AUTO LIGHTS projec
 | Build Tier | Original Price | Validated Price | Increase | Notes |
 |------------|----------------|-----------------|----------|-------|
 | MVP Build | ₱4,130 | ₱4,800 | +₱670 | Core functionality |
-| **Standard Build** | **₱5,330** | **₱6,400** | **+₱1,070** | **Recommended** |
+| **Standard Build** | **₱5,330** | **₱6,700** | **+₱1,370** | **Recommended** |
 | Complete Build | ₱6,200-6,800 | ₱7,500-8,000 | +₱1,300-1,500 | All features |
 
 **Key Price Adjustments:**
 - 50W COB LED: ₱180 → ₱350 (quality unit with verified specs)
 - Servos (2x): ₱600 → ₱750 (20 kg-cm torque verified)
 - LED Driver: ₱300 → ₱450 (constant-current verified)
-- Overall: ~20% increase for quality components
+- Overall: ~26% increase for quality components and realistic shipping/consumables
 
 ### 2. **Critical Validations Complete**
 ✅ **Component Categories Validated:**
@@ -33,19 +33,23 @@ I have successfully validated the complete BOM for your DRONE AUTO LIGHTS projec
 
 ### 3. **Profitability Analysis (Solo Engineer)**
 **Production Economics:**
-- **Hardware Cost/Unit:** ₱6,400
-- **Assembly Labor:** 16 hours × ₱150/hr = ₱2,400
-- **Total Cost/Unit:** ₱8,800
+- **Hardware Cost/Unit:** ₱6,700 (BOM + filament + shipping + consumables)
+- **Assembly Labor:** ₱0 (solo engineer - your time)
+- **R&D Investment:** ~₱3,370 (one-time for tools, testing)
+- **Total Cost/Unit:** ₱6,700 (₱10,070 for first unit including R&D)
 
 **Pricing Strategy:**
-- **Launch Price:** ₱25,000 (first 5 units) = 64% margin
-- **Standard Price:** ₱22,000 = 60% margin
-- **Volume Price:** ₱18,000-₱20,000 = 55-59% margin
+- **Early Adopters:** ₱15,000 = **55% margin** (first 5 units)
+- **Main Market:** ₱12,000 = **44% margin** (units 6-20)
+- **Volume Sales:** ₱10,000 = **33% margin** (bulk orders)
+- **Budget Build:** ₱8,500 = **21% margin** (stripped-down version)
 
 **Profit Potential:**
-- **Break-even:** 2-3 units at ₱25,000
-- **First Year (10 units):** ~₱140,000 profit
-- **Scalable Production:** Up to 2-3 units/week as solo engineer
+- **Break-even:** 1 unit at ₱12,000+ price, 2 units at ₱10,000
+- **Conservative:** 2 units/month × ₱10,000 = ₱6,600/month profit
+- **Moderate:** 5 units/month × ₱11,000 = ₱21,500/month profit
+- **Aggressive:** 10 units/month × ₱12,000 = ₱53,000/month profit
+- **Annual Potential:** ₱79,200 to ₱636,000 depending on volume
 
 ## 🚨 **CRITICAL FINDINGS**
 
@@ -141,9 +145,10 @@ I have successfully validated the complete BOM for your DRONE AUTO LIGHTS projec
 - ✅ Reliable RC control (100m+ range)
 
 ### **Business Success**
-- ✅ Unit cost < ₱9,000
-- ✅ Assembly time < 16 hours/unit
-- ✅ Selling price ≥ ₱18,000
+- ✅ Unit cost < ₱7,000
+- ✅ Assembly time < 16 hours/unit (solo engineer)
+- ✅ Selling price ≥ ₱10,000
+- ✅ Profit margin ≥ 33%
 - ✅ Customer satisfaction high
 
 ### **Production Success**
