@@ -88,28 +88,15 @@
 
 ---
 
-## 6. One-Time Tools
-
-| # | Item | Qty | Unit (₱) | Total (₱) | Note |
-|---|------|-----|----------|-----------|------|
-| 33 | Soldering iron kit, 60W | 1 | ₱300 | ₱300 | High-current joints |
-| 34 | Wire stripper/cutter | 1 | ₱120 | ₱120 | 18–22AWG wire |
-| 35 | Digital multimeter | 1 | ₱250 | ₱250 | Verify voltage/current |
-| 36 | Precision screwdriver set | 1 | ₱100 | ₱100 | Servo/bracket assembly |
-| 37 | Heat gun / lighter for heat shrink | 1 | ₱100 | ₱100 | Insulation |
-
-**Tools Subtotal:** **~₱870** *(one-time, reusable)*
-
 ---
 
-## 7. Cost Summary
+## 6. Cost Summary
 
 | Tier | Included | Estimated Cost | Notes |
 |------|----------|----------------|-------|
 | **MVP / Bench Build** | ESP32, MPU6050, servos, 50W COB, driver, battery, charger, cooling, basic wiring | **~₱4,800** | Auto stabilization and brightness control; no RC transmitter |
 | **Standard Drone Build** | MVP + RC transmitter/receiver + enclosure + protection + light head | **₱6,700** | **Recommended build** — profitable for solo engineer |
 | **Complete Build** | Standard + compass + spare battery + better reflector/lens | **~₱7,500–₱8,000** | Heading hold and longer field operation |
-| **Tools** | One-time tools | **~₱870** | Excluded from build totals |
 
 > **Price note:** All links are Lazada/Shopee Philippines. Click each link and select a listing with **4.5+ stars, 50+ reviews, and "Available"** status. Verify actual seller price, shipping, battery discharge rating, and LED datasheet before ordering. **As solo engineer: ₱0 labor cost = 33-55% profit margins at ₱10,000-₱15,000 price points.**
 

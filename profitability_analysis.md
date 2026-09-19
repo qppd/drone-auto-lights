@@ -99,11 +99,11 @@ You mentioned handling all aspects:
 | Cost Type | Amount (₱) | Notes |
 |-----------|------------|-------|
 | Hardware (Standard Build) | 6,700 | Per-unit BOM + consumables |
-| R&D Investment | ~3,370 | One-time (tools: ₱870, testing materials: ₱500, printer depreciation: ₱2,000) |
+| R&D Investment | ~2,500 | One-time (printer depreciation: ₱2,000, testing materials: ₱500) — tools already owned |
 | Design Labor | ₱0 | Solo engineer |
 | Development Labor | ₱0 | Solo engineer |
 | Production Labor (1st unit) | ₱0 | Solo engineer |
-| **Total First Unit** | **~₱10,070** | |
+| **Total First Unit** | **~₱9,200** | (₱6,700 hardware + ₱2,500 R&D) |
 
 ### 2.4. Subsequent Unit Costs
 | Component | Cost (₱) | Notes |

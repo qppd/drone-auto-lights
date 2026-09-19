@@ -144,11 +144,11 @@
 
 | Tier | Included | Original Cost | Validated Cost | Difference | Notes |
 |------|----------|---------------|----------------|------------|-------|
-| **MVP / Bench Build** | ESP32, MPU6050, servos, 50W COB, driver, battery, charger, cooling, basic wiring | **₱4,130** | **₱4,800** | **+₱670** | Auto stabilization only |
-| **Standard Drone Build** | MVP + RC transmitter/receiver + enclosure + protection + light head | **₱5,330** | **₱6,400** | **+₱1,070** | **Recommended build** |
-| **Complete Build** | Standard + compass + spare battery + better reflector/lens | **₱6,200–₱6,800** | **₱7,500–₱8,000** | **+₱1,300** | Full feature set |
+| **MVP / Bench Build** | ESP32, MPU6050, servos, 50W COB, driver, battery, charger, cooling, basic wiring | **₱4,800** | **₱4,800** | — | Auto stabilization only |
+| **Standard Drone Build** | MVP + RC transmitter/receiver + enclosure + protection + light head | **₱6,700** | **₱6,700** | — | **Recommended build** — profitable for solo engineer |
+| **Complete Build** | Standard + compass + spare battery + better reflector/lens | **₱7,500–₱8,000** | **₱7,500–₱8,000** | — | Full feature set |
 
-**One-Time Tools Cost:** **~₱870** *(unchanged, one-time investment)*
+> **Note:** Tools already owned (soldering iron, multimeter, screwdriver set, etc.) — not included in BOM.
 
 ---
 
@@ -173,12 +173,9 @@
 
 | Item | Amount (₱) | Notes |
 |------|------------|-------|
-| **Tools (Soldering iron, multimeter, etc.)** | ₱870 | One-time, reusable |
 | **3D Printer Depreciation** | ₱2,000 | Estimated per unit amortization |
-| **Software/Firmware Dev Time** | ₱0 | Your own time |
 | **Prototype Testing** | ₱500 | Materials for test builds |
-| **Design/Engineering Time** | ₱0 | Your own time |
-| **TOTAL R&D** | **~₱3,370** | Deducted once |
+| **TOTAL R&D** | **~₱2,500** | Already-owned tools excluded |
 
 ### 7.3. Recommended Pricing (Solo Engineer)
 
