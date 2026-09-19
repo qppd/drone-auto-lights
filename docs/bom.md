@@ -9,21 +9,23 @@
 
 ## 1. Core Components
 
+> ⚠️ **URL Note:** All links are **Lazada/Shopee Philippines** search pages. Click each link, sort by **"Best Match"** or **"Most Popular"**, and select a listing with **4.5+ stars, 50+ reviews, and "Available"** status. Verify specs before ordering.
+
 | # | Item | Qty | Unit (₱) | Total (₱) | Link |
 |---|------|-----|----------|-----------|------|
-| 1 | ESP32 Dev Module, 38-pin | 1 | ₱250 | ₱250 | [Makerlab search](https://shopee.ph/search?keyword=esp32%2038pin%20makerlab) |
-| 2 | MPU6050 6-axis IMU | 1 | ₱120 | ₱120 | [Makerlab search](https://shopee.ph/search?keyword=mpu6050%20makerlab) |
-| 3 | DS3218 / DS3225 metal-gear servo, 20 kg-cm | 2 | ₱300 | ₱600 | [Lazada search](https://www.lazada.com.ph/catalog/?q=DS3218%2020kg%20servo) |
-| 4 | Aluminum pan-tilt bracket for 20 kg-cm servos | 1 | ₱350 | ₱350 | [Lazada search](https://www.lazada.com.ph/catalog/?q=aluminum%20pan%20tilt%20bracket%20servo) |
-| 5 | 50W white COB LED module, 32–36V, 1.2–1.5A | 1 | ₱180 | ₱180 | [Lazada search](https://www.lazada.com.ph/catalog/?q=50W%20COB%20LED%20module%2032V%2036V%20white) |
-| 6 | DC-DC boost constant-current LED driver, 60W+ | 1 | ₱300 | ₱300 | [Lazada search](https://www.lazada.com.ph/catalog/?q=DC%20DC%20boost%20constant%20current%20LED%20driver%2060W) |
-| 7 | 4S LiPo battery, 14.8V 2200mAh, 30C+ | 1 | ₱650 | ₱650 | [Lazada search](https://www.lazada.com.ph/catalog/?q=4S%20LiPo%2014.8V%202200mAh%2030C) |
-| 8 | LiPo balance charger for 4S | 1 | ₱550 | ₱550 | [Lazada search](https://www.lazada.com.ph/catalog/?q=4S%20LiPo%20balance%20charger) |
-| 9 | 5V/6V 5A UBEC / servo power regulator | 1 | ₱150 | ₱150 | [Lazada search](https://www.lazada.com.ph/catalog/?q=5V%206V%205A%20UBEC%20servo) |
-| 10 | 5V to 3.3V buck regulator for ESP32 | 1 | ₱50 | ₱50 | [Lazada search](https://www.lazada.com.ph/catalog/?q=5V%203.3V%20buck%20converter%20ESP32) |
-| 11 | 2.4GHz RC transmitter + 6-channel PWM receiver | 1 | ₱1,200 | ₱1,200 | [Lazada search](https://www.lazada.com.ph/catalog/?q=2.4GHz%20RC%20transmitter%206%20channel%20receiver%20PWM) |
+| 1 | ESP32 Dev Module, 38-pin | 1 | ₱280 | ₱280 | [Shopee: ESP32 DevKit 38-pin](https://shopee.ph/search?keyword=esp32+devkit+38pin+makerlab) |
+| 2 | MPU6050 6-axis IMU | 1 | ₱130 | ₱130 | [Shopee: MPU6050 GY-521 module](https://shopee.ph/search?keyword=mpu6050+gy521+module) |
+| 3 | DS3218 / DS3225 metal-gear servo, 20 kg-cm | 2 | ₱375 | ₱750 | [Shopee: DS3218 servo 20kg metal gear](https://shopee.ph/search?keyword=ds3218+servo+20kg+metal+gear) |
+| 4 | Aluminum pan-tilt bracket | 1 | ₱400 | ₱400 | [Lazada: Pan tilt bracket aluminum servo](https://www.lazada.com.ph/catalog/?q=aluminum+pan+tilt+bracket+20kg+servo) |
+| 5 | 50W white COB LED module | 1 | ₱350 | ₱350 | [Lazada: 50W COB LED white 6000K](https://www.lazada.com.ph/catalog/?q=50W+COB+LED+white+6000K+32V) — **MUST VERIFY ≥3,500 lumens** |
+| 6 | DC-DC boost constant-current LED driver, 60W+ | 1 | ₱450 | ₱450 | [Lazada: Boost constant current LED driver](https://www.lazada.com.ph/catalog/?q=dc+dc+boost+constant+current+led+driver+60W) |
+| 7 | 4S LiPo battery, 14.8V 2200mAh, 30C+ | 1 | ₱700 | ₱700 | [Lazada: 4S LiPo 2200mAh 30C XT60](https://www.lazada.com.ph/catalog/?q=4s+lipo+14.8v+2200mah+30c+xt60) |
+| 8 | LiPo balance charger for 4S | 1 | ₱600 | ₱600 | [Lazada: LiPo balance charger 4S](https://www.lazada.com.ph/catalog/?q=lipo+balance+charger+4s+14.8v) |
+| 9 | 5V/6V 5A UBEC / servo power regulator | 1 | ₱180 | ₱180 | [Shopee: UBEC 5V 5A servo](https://shopee.ph/search?keyword=ubec+5v+5a+servo+regulator) |
+| 10 | 5V to 3.3V buck regulator for ESP32 | 1 | ₱60 | ₱60 | [Shopee: Buck converter 5V 3.3V](https://shopee.ph/search?keyword=buck+converter+5v+to+3.3v) |
+| 11 | 2.4GHz RC transmitter + 6-channel PWM receiver | 1 | ₱1,400 | ₱1,400 | [Lazada: 2.4GHz RC transmitter 6 channel](https://www.lazada.com.ph/catalog/?q=2.4ghz+rc+transmitter+6+channel+pwm+receiver) |
 
-**Core Subtotal:** **~₱4,400**
+**Core Subtotal:** **₱5,300**
 
 ---
 
@@ -104,12 +106,12 @@
 
 | Tier | Included | Estimated Cost | Notes |
 |------|----------|----------------|-------|
-| **MVP / Bench Build** | ESP32, MPU6050, servos, 50W COB, driver, battery, charger, cooling, basic wiring | **~₱4,130** | Auto stabilization and brightness control; no RC transmitter |
-| **Standard Drone Build** | MVP + RC transmitter/receiver + enclosure + protection + light head | **~₱5,330** | Recommended build |
-| **Complete Build** | Standard + compass + spare battery + better reflector/lens | **~₱6,200–₱6,800** | Heading hold and longer field operation |
+| **MVP / Bench Build** | ESP32, MPU6050, servos, 50W COB, driver, battery, charger, cooling, basic wiring | **~₱4,800** | Auto stabilization and brightness control; no RC transmitter |
+| **Standard Drone Build** | MVP + RC transmitter/receiver + enclosure + protection + light head | **₱6,700** | **Recommended build** — profitable for solo engineer |
+| **Complete Build** | Standard + compass + spare battery + better reflector/lens | **~₱7,500–₱8,000** | Heading hold and longer field operation |
 | **Tools** | One-time tools | **~₱870** | Excluded from build totals |
 
-> **Price note:** These are planning estimates. Verify actual seller price, shipping, battery discharge rating, and LED datasheet before ordering.
+> **Price note:** All links are Lazada/Shopee Philippines. Click each link and select a listing with **4.5+ stars, 50+ reviews, and "Available"** status. Verify actual seller price, shipping, battery discharge rating, and LED datasheet before ordering. **As solo engineer: ₱0 labor cost = 33-55% profit margins at ₱10,000-₱15,000 price points.**
 
 ---
 
